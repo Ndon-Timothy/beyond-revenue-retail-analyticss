@@ -1,0 +1,251 @@
+Order_ID,Order_Date,Customer_ID,Region,Product_Category,Order_Value_GHS,Product_Cost_GHS,Delivery_Fee_GHS,Delivery_Cost_GHS,Delivery_Status,Payment_Method,Delivery_Days,Failure_Handling_Cost_GHS,Repeat_Customer_Flag,Month,Delivered_Sales_GHS,Product_Profit_GHS,Delivery_Margin_GHS,Estimated_Contribution_GHS
+ORD-1026,2026-01-01,CUST-039,Eastern,Home & Kitchen,307.93,167.64,20,30.65,Delivered,Mobile Money,1,0.0,Repeat,2026-01,307.93,140.29000000000002,-10.65,129.64
+ORD-1068,2026-01-01,CUST-085,Ashanti,Small Appliances,773.67,471.75,30,38.62,Delivered,Cash on Delivery,3,0.0,Repeat,2026-01,773.67,301.91999999999996,-8.62,293.3
+ORD-1073,2026-01-01,CUST-037,Eastern,Stationery,153.18,69.6,25,39.65,Delivered,Cash on Delivery,2,0.0,Repeat,2026-01,153.18,83.58000000000001,-14.65,68.93
+ORD-1030,2026-01-02,CUST-014,Greater Accra,Stationery,51.11,25.29,30,36.65,Delivered,Card,1,0.0,Repeat,2026-01,51.11,25.82,-6.65,19.17
+ORD-1246,2026-01-02,CUST-051,Ashanti,Home & Kitchen,422.12,246.83,20,29.4,Delivered,Card,4,0.0,Repeat,2026-01,422.12,175.29,-9.4,165.89
+ORD-1015,2026-01-03,CUST-015,Northern,Electronics Accessories,804.15,549.0,30,42.36,Delivered,Cash on Delivery,4,0.0,Repeat,2026-01,804.15,255.14999999999998,-12.36,242.79
+ORD-1088,2026-01-09,CUST-075,Central,Home & Kitchen,128.85,77.79,20,34.47,Delivered,Mobile Money,3,0.0,Repeat,2026-01,128.85,51.05999999999999,-14.47,36.59
+ORD-1094,2026-01-10,CUST-039,Eastern,Small Appliances,306.76,197.02,30,37.36,Delivered,Cash on Delivery,3,0.0,Repeat,2026-01,306.76,109.73999999999998,-7.36,102.38
+ORD-1127,2026-01-11,CUST-058,Central,Small Appliances,921.74,584.28,30,41.76,Delivered,Mobile Money,3,0.0,Repeat,2026-01,921.74,337.46000000000004,-11.76,325.7
+ORD-1151,2026-01-11,CUST-041,Central,Small Appliances,845.77,658.04,30,41.73,Delivered,Cash on Delivery,3,0.0,Repeat,2026-01,845.77,187.73000000000002,-11.73,176.0
+ORD-1014,2026-01-12,CUST-001,Northern,Home & Kitchen,128.49,79.2,15,34.41,Delivered,Mobile Money,3,0.0,One-time,2026-01,128.49,49.290000000000006,-19.41,29.88
+ORD-1086,2026-01-13,CUST-078,Ashanti,Stationery,152.42,78.12,15,26.07,Delivered,Cash on Delivery,2,0.0,Repeat,2026-01,152.42,74.29999999999998,-11.07,63.23
+ORD-1001,2026-01-14,CUST-087,Western,Personal Care,202.7,83.29,20,37.01,Delivered,Mobile Money,4,0.0,Repeat,2026-01,202.7,119.40999999999998,-17.01,102.4
+ORD-1069,2026-01-14,CUST-027,Greater Accra,Home & Kitchen,128.61,63.26,25,28.21,Returned,Cash on Delivery,2,20.07,Repeat,2026-01,0.0,0.0,-3.21,-23.28
+ORD-1109,2026-01-14,CUST-037,Eastern,Personal Care,121.7,61.34,15,22.55,Delivered,Card,3,0.0,Repeat,2026-01,121.7,60.36,-7.55,52.81
+ORD-1006,2026-01-15,CUST-007,Eastern,Personal Care,163.28,90.37,15,21.57,Delivered,Card,2,0.0,Repeat,2026-01,163.28,72.91,-6.57,66.34
+ORD-1214,2026-01-15,CUST-018,Northern,Personal Care,104.55,57.17,30,45.19,Delivered,Cash on Delivery,5,0.0,Repeat,2026-01,104.55,47.379999999999995,-15.19,32.19
+ORD-1004,2026-01-16,CUST-022,Central,Home & Kitchen,641.19,312.73,25,34.85,Delivered,Cash on Delivery,3,0.0,Repeat,2026-01,641.19,328.46000000000004,-9.85,318.61
+ORD-1194,2026-01-16,CUST-012,Ashanti,Personal Care,88.86,47.36,10,24.13,Delivered,Card,3,0.0,Repeat,2026-01,88.86,41.5,-14.13,27.37
+ORD-1056,2026-01-17,CUST-052,Greater Accra,Personal Care,183.68,96.17,15,18.49,Delivered,Mobile Money,1,0.0,One-time,2026-01,183.68,87.51,-3.49,84.02
+ORD-1007,2026-01-18,CUST-077,Western,Electronics Accessories,786.69,466.26,30,41.46,Delivered,Cash on Delivery,3,0.0,Repeat,2026-01,786.69,320.43000000000006,-11.46,308.97
+ORD-1171,2026-01-19,CUST-089,Greater Accra,Electronics Accessories,440.48,267.44,15,20.4,Delivered,Card,2,0.0,Repeat,2026-01,440.48,173.04000000000002,-5.4,167.64
+ORD-1126,2026-01-20,CUST-083,Northern,Small Appliances,1304.65,927.22,30,45.84,Delivered,Bank Transfer,3,0.0,Repeat,2026-01,1304.65,377.43000000000006,-15.84,361.59
+ORD-1235,2026-01-20,CUST-088,Ashanti,Small Appliances,1364.07,956.8,10,16.79,Delivered,Mobile Money,4,0.0,Repeat,2026-01,1364.07,407.27,-6.79,400.48
+ORD-1245,2026-01-20,CUST-047,Greater Accra,Home & Kitchen,197.95,109.37,30,38.17,Delivered,Mobile Money,2,0.0,Repeat,2026-01,197.95,88.57999999999998,-8.17,80.41
+ORD-1034,2026-01-21,CUST-018,Northern,Electronics Accessories,394.09,215.77,15,27.64,Delivered,Cash on Delivery,3,0.0,Repeat,2026-01,394.09,178.31999999999996,-12.64,165.68
+ORD-1113,2026-01-24,CUST-068,Greater Accra,Electronics Accessories,424.26,246.65,20,25.12,Delivered,Bank Transfer,2,0.0,Repeat,2026-01,424.26,177.60999999999999,-5.12,172.49
+ORD-1010,2026-01-26,CUST-010,Greater Accra,Personal Care,164.12,69.56,20,30.81,Delivered,Mobile Money,1,0.0,Repeat,2026-01,164.12,94.56,-10.81,83.75
+ORD-1080,2026-01-26,CUST-057,Greater Accra,Electronics Accessories,325.56,170.99,20,29.96,Delivered,Mobile Money,1,0.0,Repeat,2026-01,325.56,154.57,-9.96,144.61
+ORD-1017,2026-01-27,CUST-046,Greater Accra,Stationery,160.88,68.08,30,39.49,Failed,Mobile Money,4,24.6,Repeat,2026-01,0.0,0.0,-9.49,-34.09
+ORD-1128,2026-01-27,CUST-044,Greater Accra,Small Appliances,263.84,188.99,10,14.48,Delivered,Mobile Money,2,0.0,Repeat,2026-01,263.84,74.84999999999997,-4.48,70.37
+ORD-1196,2026-01-28,CUST-043,Greater Accra,Home & Kitchen,643.46,346.05,25,35.89,Delivered,Cash on Delivery,4,0.0,Repeat,2026-01,643.46,297.41,-10.89,286.52
+ORD-1241,2026-01-28,CUST-012,Ashanti,Electronics Accessories,332.78,194.6,20,26.02,Delivered,Mobile Money,3,0.0,Repeat,2026-01,332.78,138.17999999999998,-6.02,132.16
+ORD-1212,2026-01-29,CUST-005,Central,Stationery,84.17,41.07,10,19.41,Delivered,Cash on Delivery,2,0.0,Repeat,2026-01,84.17,43.1,-9.41,33.69
+ORD-1031,2026-02-01,CUST-059,Greater Accra,Electronics Accessories,461.01,283.8,30,37.95,Failed,Card,8,22.12,Repeat,2026-02,0.0,0.0,-7.95,-30.07
+ORD-1140,2026-02-01,CUST-037,Eastern,Electronics Accessories,211.46,127.06,30,37.47,Delivered,Bank Transfer,1,0.0,Repeat,2026-02,211.46,84.4,-7.47,76.93
+ORD-1167,2026-02-01,CUST-067,Greater Accra,Electronics Accessories,215.02,124.3,15,20.46,Failed,Card,3,12.26,Repeat,2026-02,0.0,0.0,-5.46,-17.72
+ORD-1009,2026-02-03,CUST-086,Greater Accra,Personal Care,150.74,85.5,10,12.09,Delivered,Cash on Delivery,2,0.0,Repeat,2026-02,150.74,65.24000000000001,-2.09,63.15
+ORD-1100,2026-02-03,CUST-070,Greater Accra,Home & Kitchen,154.7,86.48,10,13.32,Delivered,Card,1,0.0,Repeat,2026-02,154.7,68.21999999999998,-3.32,64.9
+ORD-1108,2026-02-03,CUST-072,Western,Electronics Accessories,864.43,536.9,10,23.11,Failed,Bank Transfer,8,22.76,Repeat,2026-02,0.0,0.0,-13.11,-35.87
+ORD-1132,2026-02-03,CUST-077,Western,Stationery,28.98,13.06,20,37.13,Delivered,Card,3,0.0,Repeat,2026-02,28.98,15.92,-17.13,-1.21
+ORD-1117,2026-02-05,CUST-033,Northern,Home & Kitchen,121.99,64.6,25,38.76,Delivered,Cash on Delivery,4,0.0,Repeat,2026-02,121.99,57.39,-13.76,43.63
+ORD-1227,2026-02-05,CUST-070,Greater Accra,Home & Kitchen,600.14,322.63,10,17.24,Delivered,Mobile Money,1,0.0,Repeat,2026-02,600.14,277.51,-7.24,270.27
+ORD-1062,2026-02-06,CUST-010,Greater Accra,Electronics Accessories,729.96,457.76,30,41.21,Delivered,Mobile Money,2,0.0,Repeat,2026-02,729.96,272.20000000000005,-11.21,260.99
+ORD-1077,2026-02-06,CUST-053,Greater Accra,Small Appliances,1459.44,895.32,20,25.39,Delivered,Cash on Delivery,1,0.0,Repeat,2026-02,1459.44,564.12,-5.39,558.73
+ORD-1146,2026-02-06,CUST-038,Northern,Home & Kitchen,418.89,202.45,25,38.87,Delivered,Cash on Delivery,2,0.0,Repeat,2026-02,418.89,216.44,-13.87,202.57
+ORD-1218,2026-02-06,CUST-060,Ashanti,Small Appliances,909.22,703.92,30,40.3,Delivered,Mobile Money,2,0.0,One-time,2026-02,909.22,205.30000000000007,-10.3,195.0
+ORD-1081,2026-02-07,CUST-032,Central,Personal Care,180.63,98.02,15,23.75,Delivered,Mobile Money,4,0.0,Repeat,2026-02,180.63,82.61,-8.75,73.86
+ORD-1184,2026-02-07,CUST-088,Ashanti,Electronics Accessories,549.51,355.03,15,20.19,Delivered,Mobile Money,5,0.0,Repeat,2026-02,549.51,194.48000000000002,-5.19,189.29
+ORD-1076,2026-02-08,CUST-064,Central,Small Appliances,320.43,247.94,20,35.7,Failed,Mobile Money,9,8.26,One-time,2026-02,0.0,0.0,-15.7,-23.96
+ORD-1144,2026-02-08,CUST-071,Greater Accra,Small Appliances,971.99,657.25,20,24.38,Delivered,Mobile Money,1,0.0,Repeat,2026-02,971.99,314.74,-4.38,310.36
+ORD-1107,2026-02-09,CUST-088,Ashanti,Small Appliances,240.63,180.4,10,19.32,Delivered,Mobile Money,4,0.0,Repeat,2026-02,240.63,60.22999999999999,-9.32,50.91
+ORD-1123,2026-02-09,CUST-084,Eastern,Electronics Accessories,860.06,544.44,25,38.54,Delivered,Mobile Money,1,0.0,One-time,2026-02,860.06,315.6199999999999,-13.54,302.08
+ORD-1169,2026-02-09,CUST-022,Central,Personal Care,223.17,113.58,30,37.41,Failed,Mobile Money,6,19.07,Repeat,2026-02,0.0,0.0,-7.41,-26.48
+ORD-1011,2026-02-10,CUST-057,Greater Accra,Stationery,131.08,60.31,30,32.08,Delivered,Mobile Money,2,0.0,Repeat,2026-02,131.08,70.77000000000001,-2.08,68.69
+ORD-1193,2026-02-10,CUST-053,Greater Accra,Personal Care,267.18,129.75,15,24.56,Delivered,Mobile Money,3,0.0,Repeat,2026-02,267.18,137.43,-9.56,127.87
+ORD-1244,2026-02-13,CUST-018,Northern,Home & Kitchen,211.04,98.4,15,31.35,Delivered,Cash on Delivery,8,0.0,Repeat,2026-02,211.04,112.63999999999999,-16.35,96.29
+ORD-1018,2026-02-15,CUST-053,Greater Accra,Electronics Accessories,683.98,396.57,25,35.02,Delivered,Card,1,0.0,Repeat,2026-02,683.98,287.41,-10.02,277.39
+ORD-1054,2026-02-15,CUST-039,Eastern,Electronics Accessories,517.99,294.93,10,21.53,Delivered,Mobile Money,2,0.0,Repeat,2026-02,517.99,223.06,-11.53,211.53
+ORD-1195,2026-02-15,CUST-005,Central,Small Appliances,685.94,472.73,20,35.77,Delivered,Cash on Delivery,4,0.0,Repeat,2026-02,685.94,213.21000000000004,-15.77,197.44
+ORD-1231,2026-02-15,CUST-014,Greater Accra,Small Appliances,857.92,551.96,30,37.26,Delivered,Mobile Money,2,0.0,Repeat,2026-02,857.92,305.9599999999999,-7.26,298.7
+ORD-1053,2026-02-17,CUST-025,Western,Electronics Accessories,477.04,310.28,30,44.97,Returned,Card,3,11.87,Repeat,2026-02,0.0,0.0,-14.97,-26.84
+ORD-1013,2026-02-23,CUST-044,Greater Accra,Electronics Accessories,600.08,340.56,25,29.51,Failed,Mobile Money,8,22.1,Repeat,2026-02,0.0,0.0,-4.51,-26.61
+ORD-1236,2026-02-23,CUST-076,Ashanti,Electronics Accessories,752.97,502.81,10,17.99,Delivered,Cash on Delivery,1,0.0,Repeat,2026-02,752.97,250.16000000000003,-7.99,242.17
+ORD-1059,2026-02-24,CUST-034,Western,Personal Care,68.19,29.41,10,20.57,Delivered,Cash on Delivery,3,0.0,One-time,2026-02,68.19,38.78,-10.57,28.21
+ORD-1141,2026-02-26,CUST-058,Central,Small Appliances,1406.14,948.7,25,37.02,Delivered,Bank Transfer,4,0.0,Repeat,2026-02,1406.14,457.44000000000005,-12.02,445.42
+ORD-1106,2026-02-28,CUST-053,Greater Accra,Home & Kitchen,322.1,165.84,10,15.13,Delivered,Mobile Money,1,0.0,Repeat,2026-02,322.1,156.26000000000002,-5.13,151.13
+ORD-1041,2026-03-03,CUST-017,Greater Accra,Home & Kitchen,118.63,72.44,25,33.99,Delivered,Mobile Money,1,0.0,Repeat,2026-03,118.63,46.19,-8.99,37.2
+ORD-1050,2026-03-03,CUST-089,Greater Accra,Home & Kitchen,477.11,248.42,10,12.93,Delivered,Cash on Delivery,2,0.0,Repeat,2026-03,477.11,228.69000000000003,-2.93,225.76
+ORD-1057,2026-03-05,CUST-016,Northern,Personal Care,139.45,70.74,30,44.26,Delivered,Mobile Money,2,0.0,Repeat,2026-03,139.45,68.71,-14.26,54.45
+ORD-1019,2026-03-10,CUST-021,Eastern,Stationery,32.84,16.65,25,33.22,Delivered,Mobile Money,2,0.0,Repeat,2026-03,32.84,16.190000000000005,-8.22,7.97
+ORD-1065,2026-03-10,CUST-074,Ashanti,Electronics Accessories,700.14,423.37,25,39.16,Delivered,Cash on Delivery,2,0.0,Repeat,2026-03,700.14,276.77,-14.16,262.61
+ORD-1200,2026-03-10,CUST-043,Greater Accra,Home & Kitchen,483.73,213.84,20,28.93,Delivered,Mobile Money,1,0.0,Repeat,2026-03,483.73,269.89,-8.93,260.96
+ORD-1037,2026-03-11,CUST-056,Northern,Home & Kitchen,283.31,158.77,25,44.24,Failed,Card,2,23.42,Repeat,2026-03,0.0,0.0,-19.24,-42.66
+ORD-1197,2026-03-11,CUST-025,Western,Stationery,69.56,33.5,20,36.19,Delivered,Mobile Money,3,0.0,Repeat,2026-03,69.56,36.06,-16.19,19.87
+ORD-1239,2026-03-11,CUST-058,Central,Personal Care,122.85,69.95,25,33.86,Delivered,Mobile Money,3,0.0,Repeat,2026-03,122.85,52.89999999999999,-8.86,44.04
+ORD-1049,2026-03-13,CUST-077,Western,Stationery,60.58,21.31,15,24.86,Delivered,Cash on Delivery,2,0.0,Repeat,2026-03,60.58,39.269999999999996,-9.86,29.41
+ORD-1096,2026-03-13,CUST-005,Central,Stationery,50.85,21.87,15,30.55,Delivered,Cash on Delivery,2,0.0,Repeat,2026-03,50.85,28.98,-15.55,13.43
+ORD-1152,2026-03-15,CUST-046,Greater Accra,Small Appliances,214.54,154.05,20,23.24,Delivered,Card,1,0.0,Repeat,2026-03,214.54,60.48999999999998,-3.24,57.25
+ORD-1190,2026-03-15,CUST-011,Greater Accra,Home & Kitchen,315.43,153.35,25,29.14,Delivered,Mobile Money,2,0.0,Repeat,2026-03,315.43,162.08,-4.14,157.94
+ORD-1085,2026-03-17,CUST-090,Greater Accra,Home & Kitchen,636.77,355.62,20,22.08,Delivered,Cash on Delivery,2,0.0,Repeat,2026-03,636.77,281.15,-2.08,279.07
+ORD-1198,2026-03-17,CUST-073,Eastern,Personal Care,78.12,39.84,25,39.27,Delivered,Mobile Money,2,0.0,Repeat,2026-03,78.12,38.28,-14.27,24.01
+ORD-1188,2026-03-18,CUST-037,Eastern,Stationery,128.89,56.46,25,34.49,Failed,Card,6,12.89,Repeat,2026-03,0.0,0.0,-9.49,-22.38
+ORD-1063,2026-03-19,CUST-090,Greater Accra,Home & Kitchen,213.35,114.61,25,27.8,Delivered,Mobile Money,1,0.0,Repeat,2026-03,213.35,98.74,-2.8,95.94
+ORD-1125,2026-03-19,CUST-036,Northern,Personal Care,121.78,50.34,25,41.52,Delivered,Card,4,0.0,Repeat,2026-03,121.78,71.44,-16.52,54.92
+ORD-1020,2026-03-20,CUST-030,Northern,Electronics Accessories,621.23,367.6,20,40.64,Returned,Mobile Money,6,16.66,Repeat,2026-03,0.0,0.0,-20.64,-37.3
+ORD-1051,2026-03-20,CUST-085,Ashanti,Personal Care,155.15,76.89,25,39.97,Delivered,Mobile Money,3,0.0,Repeat,2026-03,155.15,78.26,-14.97,63.29
+ORD-1155,2026-03-20,CUST-058,Central,Personal Care,142.18,74.52,20,31.47,Delivered,Card,2,0.0,Repeat,2026-03,142.18,67.66000000000001,-11.47,56.19
+ORD-1201,2026-03-20,CUST-021,Eastern,Home & Kitchen,351.51,211.3,20,32.9,Delivered,Bank Transfer,2,0.0,Repeat,2026-03,351.51,140.20999999999998,-12.9,127.31
+ORD-1207,2026-03-20,CUST-003,Greater Accra,Home & Kitchen,539.87,310.02,30,32.73,Delivered,Cash on Delivery,1,0.0,Repeat,2026-03,539.87,229.85000000000002,-2.73,227.12
+ORD-1070,2026-03-21,CUST-071,Greater Accra,Electronics Accessories,414.55,232.33,10,16.61,Delivered,Card,3,0.0,Repeat,2026-03,414.55,182.22,-6.61,175.61
+ORD-1119,2026-03-22,CUST-074,Ashanti,Home & Kitchen,292.65,162.49,20,26.15,Delivered,Mobile Money,3,0.0,Repeat,2026-03,292.65,130.15999999999997,-6.15,124.01
+ORD-1162,2026-03-23,CUST-086,Greater Accra,Home & Kitchen,88.96,47.82,20,30.51,Delivered,Bank Transfer,1,0.0,Repeat,2026-03,88.96,41.13999999999999,-10.51,30.63
+ORD-1172,2026-03-23,CUST-045,Greater Accra,Small Appliances,326.53,217.7,30,33.06,Delivered,Mobile Money,2,0.0,Repeat,2026-03,326.53,108.82999999999998,-3.06,105.77
+ORD-1217,2026-03-23,CUST-090,Greater Accra,Home & Kitchen,139.53,70.85,30,36.74,Delivered,Mobile Money,2,0.0,Repeat,2026-03,139.53,68.68,-6.74,61.94
+ORD-1224,2026-03-23,CUST-027,Greater Accra,Home & Kitchen,298.36,161.49,15,24.41,Delivered,Cash on Delivery,1,0.0,Repeat,2026-03,298.36,136.87,-9.41,127.46
+ORD-1248,2026-03-23,CUST-038,Northern,Stationery,119.43,62.6,15,30.26,Delivered,Card,5,0.0,Repeat,2026-03,119.43,56.830000000000005,-15.26,41.57
+ORD-1064,2026-03-24,CUST-078,Ashanti,Home & Kitchen,104.8,64.26,30,40.87,Delivered,Cash on Delivery,3,0.0,Repeat,2026-03,104.8,40.53999999999999,-10.87,29.67
+ORD-1215,2026-03-24,CUST-031,Eastern,Home & Kitchen,135.96,75.98,15,25.14,Delivered,Cash on Delivery,2,0.0,Repeat,2026-03,135.96,59.980000000000004,-10.14,49.84
+ORD-1093,2026-03-25,CUST-079,Greater Accra,Electronics Accessories,131.84,88.11,20,28.49,Delivered,Mobile Money,1,0.0,Repeat,2026-03,131.84,43.730000000000004,-8.49,35.24
+ORD-1105,2026-03-25,CUST-049,Northern,Small Appliances,866.25,590.5,30,46.3,Failed,Mobile Money,5,15.31,Repeat,2026-03,0.0,0.0,-16.3,-31.61
+ORD-1024,2026-03-26,CUST-080,Greater Accra,Home & Kitchen,558.81,318.27,20,27.07,Delivered,Mobile Money,1,0.0,Repeat,2026-03,558.81,240.53999999999996,-7.07,233.47
+ORD-1078,2026-03-26,CUST-087,Western,Small Appliances,663.01,435.6,25,42.72,Delivered,Mobile Money,3,0.0,Repeat,2026-03,663.01,227.40999999999997,-17.72,209.69
+ORD-1219,2026-03-26,CUST-083,Northern,Electronics Accessories,448.83,263.37,30,49.25,Delivered,Mobile Money,3,0.0,Repeat,2026-03,448.83,185.45999999999998,-19.25,166.21
+ORD-1074,2026-03-27,CUST-071,Greater Accra,Stationery,77.24,40.0,15,26.81,Delivered,Mobile Money,2,0.0,Repeat,2026-03,77.24,37.239999999999995,-11.81,25.43
+ORD-1180,2026-03-27,CUST-061,Western,Personal Care,65.96,36.99,15,27.28,Delivered,Mobile Money,3,0.0,Repeat,2026-03,65.96,28.96999999999999,-12.28,16.69
+ORD-1221,2026-03-27,CUST-039,Eastern,Small Appliances,170.7,131.22,10,23.47,Delivered,Card,2,0.0,Repeat,2026-03,170.7,39.47999999999999,-13.47,26.01
+ORD-1090,2026-03-28,CUST-015,Northern,Home & Kitchen,95.18,54.8,15,35.6,Delivered,Bank Transfer,6,0.0,Repeat,2026-03,95.18,40.38000000000001,-20.6,19.78
+ORD-1112,2026-03-28,CUST-045,Greater Accra,Electronics Accessories,793.29,493.38,25,27.7,Delivered,Bank Transfer,2,0.0,Repeat,2026-03,793.29,299.90999999999997,-2.7,297.21
+ORD-1179,2026-03-28,CUST-072,Western,Small Appliances,1169.2,743.41,30,43.01,Delivered,Mobile Money,4,0.0,Repeat,2026-03,1169.2,425.7900000000001,-13.01,412.78
+ORD-1045,2026-03-29,CUST-002,Greater Accra,Stationery,150.68,55.6,20,28.36,Delivered,Cash on Delivery,2,0.0,Repeat,2026-03,150.68,95.08000000000001,-8.36,86.72
+ORD-1022,2026-03-30,CUST-041,Central,Home & Kitchen,640.54,295.17,30,38.9,Delivered,Mobile Money,2,0.0,Repeat,2026-03,640.54,345.36999999999995,-8.9,336.47
+ORD-1238,2026-03-30,CUST-007,Eastern,Electronics Accessories,270.36,144.29,30,43.69,Failed,Mobile Money,7,8.5,Repeat,2026-03,0.0,0.0,-13.69,-22.19
+ORD-1110,2026-03-31,CUST-072,Western,Home & Kitchen,507.56,275.78,25,42.45,Returned,Card,5,19.47,Repeat,2026-03,0.0,0.0,-17.45,-36.92
+ORD-1122,2026-03-31,CUST-045,Greater Accra,Stationery,150.13,74.57,15,18.03,Delivered,Mobile Money,1,0.0,Repeat,2026-03,150.13,75.56,-3.03,72.53
+ORD-1210,2026-03-31,CUST-016,Northern,Electronics Accessories,520.55,320.24,15,35.35,Failed,Bank Transfer,9,19.45,Repeat,2026-03,0.0,0.0,-20.35,-39.8
+ORD-1223,2026-04-02,CUST-040,Northern,Home & Kitchen,357.69,189.4,10,30.03,Delivered,Cash on Delivery,4,0.0,Repeat,2026-04,357.69,168.29,-20.03,148.26
+ORD-1102,2026-04-03,CUST-066,Central,Personal Care,149.3,65.67,30,37.43,Delivered,Card,4,0.0,Repeat,2026-04,149.3,83.63000000000001,-7.43,76.2
+ORD-1147,2026-04-03,CUST-009,Ashanti,Small Appliances,884.51,655.91,30,40.54,Delivered,Mobile Money,3,0.0,One-time,2026-04,884.51,228.60000000000002,-10.54,218.06
+ORD-1164,2026-04-03,CUST-071,Greater Accra,Personal Care,153.54,88.58,15,23.12,Delivered,Mobile Money,3,0.0,Repeat,2026-04,153.54,64.96,-8.12,56.84
+ORD-1158,2026-04-04,CUST-047,Greater Accra,Home & Kitchen,390.35,214.27,25,36.49,Delivered,Cash on Delivery,3,0.0,Repeat,2026-04,390.35,176.08,-11.49,164.59
+ORD-1249,2026-04-04,CUST-015,Northern,Small Appliances,419.73,327.18,15,33.82,Delivered,Bank Transfer,4,0.0,Repeat,2026-04,419.73,92.55000000000001,-18.82,73.73
+ORD-1182,2026-04-05,CUST-043,Greater Accra,Personal Care,294.47,148.73,10,17.97,Delivered,Cash on Delivery,2,0.0,Repeat,2026-04,294.47,145.74000000000004,-7.97,137.77
+ORD-1202,2026-04-05,CUST-079,Greater Accra,Electronics Accessories,865.04,524.28,25,34.48,Delivered,Mobile Money,2,0.0,Repeat,2026-04,865.04,340.76,-9.48,331.28
+ORD-1142,2026-04-06,CUST-029,Eastern,Electronics Accessories,843.28,565.88,20,33.91,Delivered,Mobile Money,3,0.0,One-time,2026-04,843.28,277.4,-13.91,263.49
+ORD-1043,2026-04-07,CUST-051,Ashanti,Small Appliances,417.75,295.17,15,21.02,Delivered,Card,2,0.0,Repeat,2026-04,417.75,122.57999999999998,-6.02,116.56
+ORD-1243,2026-04-09,CUST-002,Greater Accra,Home & Kitchen,282.68,128.69,30,41.05,Returned,Cash on Delivery,2,19.65,Repeat,2026-04,0.0,0.0,-11.05,-30.7
+ORD-1237,2026-04-10,CUST-087,Western,Small Appliances,597.84,440.02,15,31.9,Delivered,Mobile Money,2,0.0,Repeat,2026-04,597.84,157.82000000000005,-16.9,140.92
+ORD-1175,2026-04-11,CUST-065,Eastern,Home & Kitchen,194.44,105.97,10,16.51,Delivered,Card,1,0.0,One-time,2026-04,194.44,88.47,-6.51,81.96
+ORD-1121,2026-04-12,CUST-040,Northern,Stationery,51.56,25.28,10,27.1,Delivered,Cash on Delivery,4,0.0,Repeat,2026-04,51.56,26.28,-17.1,9.18
+ORD-1232,2026-04-12,CUST-011,Greater Accra,Home & Kitchen,293.62,159.05,15,20.0,Delivered,Mobile Money,2,0.0,Repeat,2026-04,293.62,134.57,-5.0,129.57
+ORD-1067,2026-04-13,CUST-071,Greater Accra,Electronics Accessories,152.21,86.06,10,21.7,Delivered,Cash on Delivery,1,0.0,Repeat,2026-04,152.21,66.15,-11.7,54.45
+ORD-1177,2026-04-14,CUST-047,Greater Accra,Electronics Accessories,121.95,75.75,20,27.53,Delivered,Cash on Delivery,2,0.0,Repeat,2026-04,121.95,46.2,-7.53,38.67
+ORD-1075,2026-04-16,CUST-006,Central,Home & Kitchen,333.79,201.75,25,35.86,Delivered,Card,4,0.0,One-time,2026-04,333.79,132.04000000000002,-10.86,121.18
+ORD-1230,2026-04-16,CUST-002,Greater Accra,Electronics Accessories,672.2,414.37,20,22.17,Delivered,Cash on Delivery,1,0.0,Repeat,2026-04,672.2,257.83000000000004,-2.17,255.66
+ORD-1035,2026-04-17,CUST-008,Greater Accra,Electronics Accessories,424.52,289.89,30,41.46,Delivered,Card,2,0.0,Repeat,2026-04,424.52,134.63,-11.46,123.17
+ORD-1008,2026-04-18,CUST-085,Ashanti,Personal Care,168.77,95.9,15,26.7,Delivered,Mobile Money,4,0.0,Repeat,2026-04,168.77,72.87,-11.7,61.17
+ORD-1154,2026-04-19,CUST-011,Greater Accra,Home & Kitchen,647.06,305.72,20,25.21,Delivered,Cash on Delivery,2,0.0,Repeat,2026-04,647.06,341.3399999999999,-5.21,336.13
+ORD-1016,2026-04-21,CUST-017,Greater Accra,Electronics Accessories,379.01,260.74,10,20.99,Delivered,Mobile Money,1,0.0,Repeat,2026-04,379.01,118.26999999999998,-10.99,107.28
+ORD-1046,2026-04-22,CUST-023,Ashanti,Stationery,174.3,69.48,30,42.75,Delivered,Card,1,0.0,Repeat,2026-04,174.3,104.82000000000001,-12.75,92.07
+ORD-1234,2026-04-22,CUST-083,Northern,Stationery,108.37,54.67,10,30.95,Failed,Mobile Money,9,12.61,Repeat,2026-04,0.0,0.0,-20.95,-33.56
+ORD-1153,2026-04-23,CUST-050,Ashanti,Home & Kitchen,162.09,91.51,20,34.24,Delivered,Card,1,0.0,Repeat,2026-04,162.09,70.58,-14.24,56.34
+ORD-1058,2026-04-24,CUST-039,Eastern,Small Appliances,1486.54,973.64,30,36.6,Returned,Mobile Money,7,11.53,Repeat,2026-04,0.0,0.0,-6.6,-18.13
+ORD-1104,2026-04-24,CUST-010,Greater Accra,Small Appliances,584.85,366.53,15,19.75,Delivered,Cash on Delivery,1,0.0,Repeat,2026-04,584.85,218.32000000000005,-4.75,213.57
+ORD-1137,2026-04-25,CUST-030,Northern,Personal Care,110.1,60.07,25,46.04,Delivered,Cash on Delivery,4,0.0,Repeat,2026-04,110.1,50.029999999999994,-21.04,28.99
+ORD-1213,2026-04-25,CUST-077,Western,Personal Care,264.86,117.61,10,23.02,Delivered,Mobile Money,2,0.0,Repeat,2026-04,264.86,147.25,-13.02,134.23
+ORD-1173,2026-04-26,CUST-032,Central,Electronics Accessories,121.5,83.86,30,41.18,Returned,Card,7,13.57,Repeat,2026-04,0.0,0.0,-11.18,-24.75
+ORD-1029,2026-04-27,CUST-054,Western,Small Appliances,927.16,676.18,25,38.94,Delivered,Cash on Delivery,3,0.0,Repeat,2026-04,927.16,250.98000000000002,-13.94,237.04
+ORD-1039,2026-04-27,CUST-042,Greater Accra,Home & Kitchen,577.78,283.16,25,29.52,Delivered,Mobile Money,1,0.0,Repeat,2026-04,577.78,294.61999999999995,-4.52,290.1
+ORD-1052,2026-04-27,CUST-035,Ashanti,Home & Kitchen,188.32,107.31,20,26.2,Delivered,Cash on Delivery,3,0.0,Repeat,2026-04,188.32,81.00999999999999,-6.2,74.81
+ORD-1229,2026-04-27,CUST-048,Greater Accra,Electronics Accessories,602.94,414.88,25,33.59,Delivered,Cash on Delivery,2,0.0,One-time,2026-04,602.94,188.06000000000006,-8.59,179.47
+ORD-1250,2026-04-29,CUST-027,Greater Accra,Home & Kitchen,224.8,126.95,25,33.73,Delivered,Mobile Money,2,0.0,Repeat,2026-04,224.8,97.85000000000001,-8.73,89.12
+ORD-1083,2026-04-30,CUST-037,Eastern,Personal Care,68.44,32.82,20,35.88,Delivered,Bank Transfer,2,0.0,Repeat,2026-04,68.44,35.62,-15.88,19.74
+ORD-1060,2026-05-01,CUST-038,Northern,Electronics Accessories,316.25,180.54,25,37.71,Delivered,Mobile Money,3,0.0,Repeat,2026-05,316.25,135.71,-12.71,123.0
+ORD-1143,2026-05-01,CUST-090,Greater Accra,Stationery,140.21,60.91,30,32.05,Delivered,Mobile Money,2,0.0,Repeat,2026-05,140.21,79.30000000000001,-2.05,77.25
+ORD-1027,2026-05-02,CUST-022,Central,Personal Care,103.04,53.53,30,40.35,Delivered,Cash on Delivery,4,0.0,Repeat,2026-05,103.04,49.510000000000005,-10.35,39.16
+ORD-1150,2026-05-03,CUST-081,Northern,Electronics Accessories,190.58,123.67,25,37.37,Delivered,Card,3,0.0,One-time,2026-05,190.58,66.91000000000001,-12.37,54.54
+ORD-1165,2026-05-03,CUST-068,Greater Accra,Home & Kitchen,295.66,160.69,15,26.72,Delivered,Mobile Money,1,0.0,Repeat,2026-05,295.66,134.97000000000003,-11.72,123.25
+ORD-1115,2026-05-05,CUST-078,Ashanti,Home & Kitchen,213.9,123.18,10,18.45,Delivered,Cash on Delivery,2,0.0,Repeat,2026-05,213.9,90.72,-8.45,82.27
+ORD-1134,2026-05-05,CUST-025,Western,Electronics Accessories,192.8,102.93,10,24.08,Delivered,Cash on Delivery,3,0.0,Repeat,2026-05,192.8,89.87,-14.08,75.79
+ORD-1055,2026-05-06,CUST-014,Greater Accra,Small Appliances,924.99,633.15,25,30.41,Returned,Mobile Money,7,16.12,Repeat,2026-05,0.0,0.0,-5.41,-21.53
+ORD-1161,2026-05-06,CUST-026,Ashanti,Electronics Accessories,779.32,468.66,25,39.97,Delivered,Bank Transfer,3,0.0,One-time,2026-05,779.32,310.66,-14.97,295.69
+ORD-1071,2026-05-08,CUST-038,Northern,Personal Care,100.19,55.13,25,39.44,Delivered,Mobile Money,5,0.0,Repeat,2026-05,100.19,45.059999999999995,-14.44,30.62
+ORD-1118,2026-05-09,CUST-072,Western,Stationery,148.02,53.73,10,23.36,Delivered,Mobile Money,2,0.0,Repeat,2026-05,148.02,94.29000000000002,-13.36,80.93
+ORD-1206,2026-05-11,CUST-058,Central,Stationery,89.82,39.73,25,37.64,Delivered,Cash on Delivery,4,0.0,Repeat,2026-05,89.82,50.089999999999996,-12.64,37.45
+ORD-1160,2026-05-13,CUST-050,Ashanti,Small Appliances,308.98,228.49,25,32.15,Delivered,Cash on Delivery,2,0.0,Repeat,2026-05,308.98,80.49000000000001,-7.15,73.34
+ORD-1023,2026-05-14,CUST-069,Ashanti,Personal Care,283.57,151.05,15,23.64,Delivered,Cash on Delivery,3,0.0,Repeat,2026-05,283.57,132.51999999999998,-8.64,123.88
+ORD-1033,2026-05-14,CUST-063,Northern,Personal Care,100.51,41.61,20,34.34,Delivered,Card,4,0.0,Repeat,2026-05,100.51,58.900000000000006,-14.34,44.56
+ORD-1103,2026-05-14,CUST-039,Eastern,Home & Kitchen,628.42,283.39,25,39.47,Delivered,Mobile Money,2,0.0,Repeat,2026-05,628.42,345.03,-14.47,330.56
+ORD-1129,2026-05-14,CUST-079,Greater Accra,Electronics Accessories,385.74,220.23,25,34.74,Delivered,Mobile Money,4,0.0,Repeat,2026-05,385.74,165.51000000000002,-9.74,155.77
+ORD-1135,2026-05-15,CUST-005,Central,Personal Care,266.01,136.0,30,40.77,Delivered,Card,3,0.0,Repeat,2026-05,266.01,130.01,-10.77,119.24
+ORD-1204,2026-05-15,CUST-058,Central,Personal Care,124.49,70.35,10,17.62,Delivered,Cash on Delivery,4,0.0,Repeat,2026-05,124.49,54.14,-7.62,46.52
+ORD-1002,2026-05-18,CUST-058,Central,Electronics Accessories,230.46,139.03,10,21.43,Failed,Cash on Delivery,2,19.09,Repeat,2026-05,0.0,0.0,-11.43,-30.52
+ORD-1003,2026-05-19,CUST-002,Greater Accra,Small Appliances,1400.6,1054.32,15,21.06,Delivered,Card,1,0.0,Repeat,2026-05,1400.6,346.28,-6.06,340.22
+ORD-1040,2026-05-19,CUST-007,Eastern,Small Appliances,622.45,446.31,10,23.54,Failed,Mobile Money,2,18.56,Repeat,2026-05,0.0,0.0,-13.54,-32.1
+ORD-1089,2026-05-19,CUST-047,Greater Accra,Personal Care,276.21,151.77,20,31.14,Failed,Bank Transfer,6,20.69,Repeat,2026-05,0.0,0.0,-11.14,-31.83
+ORD-1208,2026-05-19,CUST-008,Greater Accra,Small Appliances,243.18,186.78,10,14.87,Delivered,Mobile Money,4,0.0,Repeat,2026-05,243.18,56.400000000000006,-4.87,51.53
+ORD-1097,2026-05-20,CUST-083,Northern,Home & Kitchen,288.88,136.98,10,31.49,Failed,Mobile Money,5,18.91,Repeat,2026-05,0.0,0.0,-21.49,-40.4
+ORD-1211,2026-05-20,CUST-055,Northern,Personal Care,251.42,111.77,20,33.55,Delivered,Card,5,0.0,One-time,2026-05,251.42,139.64999999999998,-13.55,126.1
+ORD-1032,2026-05-21,CUST-058,Central,Small Appliances,1153.93,790.95,20,34.52,Delivered,Mobile Money,2,0.0,Repeat,2026-05,1153.93,362.98,-14.52,348.46
+ORD-1178,2026-05-21,CUST-036,Northern,Stationery,117.83,54.2,15,36.75,Delivered,Card,4,0.0,Repeat,2026-05,117.83,63.629999999999995,-21.75,41.88
+ORD-1203,2026-05-21,CUST-061,Western,Stationery,147.33,73.46,15,30.8,Delivered,Card,4,0.0,Repeat,2026-05,147.33,73.87000000000002,-15.8,58.07
+ORD-1005,2026-05-23,CUST-085,Ashanti,Stationery,40.54,16.35,10,20.79,Delivered,Cash on Delivery,4,0.0,Repeat,2026-05,40.54,24.189999999999998,-10.79,13.4
+ORD-1091,2026-05-23,CUST-047,Greater Accra,Electronics Accessories,403.55,229.06,10,16.55,Delivered,Cash on Delivery,1,0.0,Repeat,2026-05,403.55,174.49,-6.55,167.94
+ORD-1111,2026-05-23,CUST-004,Greater Accra,Personal Care,205.9,108.06,10,13.8,Delivered,Mobile Money,1,0.0,One-time,2026-05,205.9,97.84,-3.8,94.04
+ORD-1242,2026-05-23,CUST-072,Western,Personal Care,53.41,22.23,30,39.93,Delivered,Mobile Money,4,0.0,Repeat,2026-05,53.41,31.179999999999996,-9.93,21.25
+ORD-1191,2026-05-24,CUST-090,Greater Accra,Home & Kitchen,115.54,66.25,15,19.42,Delivered,Cash on Delivery,3,0.0,Repeat,2026-05,115.54,49.290000000000006,-4.42,44.87
+ORD-1124,2026-05-25,CUST-083,Northern,Personal Care,196.74,109.3,20,33.51,Delivered,Mobile Money,4,0.0,Repeat,2026-05,196.74,87.44000000000001,-13.51,73.93
+ORD-1138,2026-05-27,CUST-057,Greater Accra,Home & Kitchen,219.06,111.44,30,36.19,Delivered,Mobile Money,2,0.0,Repeat,2026-05,219.06,107.62,-6.19,101.43
+ORD-1159,2026-05-27,CUST-018,Northern,Personal Care,134.46,69.51,15,36.61,Delivered,Mobile Money,3,0.0,Repeat,2026-05,134.46,64.95,-21.61,43.34
+ORD-1170,2026-05-27,CUST-054,Western,Personal Care,33.33,18.67,30,41.9,Failed,Cash on Delivery,8,13.06,Repeat,2026-05,0.0,0.0,-11.9,-24.96
+ORD-1189,2026-05-27,CUST-087,Western,Personal Care,271.33,127.8,20,38.55,Delivered,Mobile Money,2,0.0,Repeat,2026-05,271.33,143.52999999999997,-18.55,124.98
+ORD-1205,2026-05-27,CUST-069,Ashanti,Electronics Accessories,349.06,214.2,10,21.8,Delivered,Cash on Delivery,3,0.0,Repeat,2026-05,349.06,134.86,-11.8,123.06
+ORD-1036,2026-05-28,CUST-049,Northern,Home & Kitchen,615.64,303.97,25,45.53,Failed,Mobile Money,5,16.3,Repeat,2026-05,0.0,0.0,-20.53,-36.83
+ORD-1174,2026-05-28,CUST-041,Central,Electronics Accessories,210.66,147.31,25,36.99,Delivered,Mobile Money,1,0.0,Repeat,2026-05,210.66,63.349999999999994,-11.99,51.36
+ORD-1149,2026-05-29,CUST-043,Greater Accra,Electronics Accessories,368.89,214.3,15,25.3,Delivered,Bank Transfer,1,0.0,Repeat,2026-05,368.89,154.58999999999997,-10.3,144.29
+ORD-1183,2026-05-29,CUST-074,Ashanti,Electronics Accessories,122.11,74.06,30,41.29,Delivered,Card,2,0.0,Repeat,2026-05,122.11,48.05,-11.29,36.76
+ORD-1092,2026-05-30,CUST-049,Northern,Stationery,170.15,62.87,15,31.71,Delivered,Bank Transfer,6,0.0,Repeat,2026-05,170.15,107.28,-16.71,90.57
+ORD-1225,2026-05-30,CUST-075,Central,Stationery,63.71,24.55,15,25.8,Delivered,Cash on Delivery,3,0.0,Repeat,2026-05,63.71,39.16,-10.8,28.36
+ORD-1099,2026-05-31,CUST-028,Greater Accra,Stationery,53.44,26.15,30,32.03,Delivered,Mobile Money,1,0.0,One-time,2026-05,53.44,27.29,-2.03,25.26
+ORD-1101,2026-05-31,CUST-042,Greater Accra,Electronics Accessories,297.6,161.54,25,32.26,Delivered,Mobile Money,2,0.0,Repeat,2026-05,297.6,136.06000000000003,-7.26,128.8
+ORD-1038,2026-06-01,CUST-073,Eastern,Personal Care,48.09,22.95,25,32.82,Delivered,Mobile Money,2,0.0,Repeat,2026-06,48.09,25.140000000000004,-7.82,17.32
+ORD-1047,2026-06-01,CUST-035,Ashanti,Home & Kitchen,197.3,120.0,20,33.82,Delivered,Mobile Money,3,0.0,Repeat,2026-06,197.3,77.30000000000001,-13.82,63.48
+ORD-1116,2026-06-01,CUST-063,Northern,Personal Care,109.82,48.29,30,42.55,Delivered,Bank Transfer,4,0.0,Repeat,2026-06,109.82,61.529999999999994,-12.55,48.98
+ORD-1216,2026-06-01,CUST-023,Ashanti,Personal Care,142.48,69.7,20,34.42,Delivered,Card,3,0.0,Repeat,2026-06,142.48,72.77999999999999,-14.42,58.36
+ORD-1098,2026-06-02,CUST-003,Greater Accra,Electronics Accessories,353.48,246.72,30,34.05,Delivered,Cash on Delivery,2,0.0,Repeat,2026-06,353.48,106.76000000000002,-4.05,102.71
+ORD-1114,2026-06-02,CUST-011,Greater Accra,Small Appliances,360.03,264.91,10,18.74,Delivered,Cash on Delivery,3,0.0,Repeat,2026-06,360.03,95.11999999999995,-8.74,86.38
+ORD-1044,2026-06-03,CUST-016,Northern,Stationery,108.38,38.73,30,46.28,Delivered,Cash on Delivery,3,0.0,Repeat,2026-06,108.38,69.65,-16.28,53.37
+ORD-1072,2026-06-03,CUST-066,Central,Stationery,37.52,13.6,25,35.4,Delivered,Mobile Money,2,0.0,Repeat,2026-06,37.52,23.92,-10.4,13.52
+ORD-1131,2026-06-04,CUST-020,Greater Accra,Home & Kitchen,399.64,186.02,20,25.1,Delivered,Cash on Delivery,2,0.0,One-time,2026-06,399.64,213.61999999999998,-5.1,208.52
+ORD-1139,2026-06-04,CUST-018,Northern,Small Appliances,220.44,151.33,20,37.55,Delivered,Card,4,0.0,Repeat,2026-06,220.44,69.10999999999999,-17.55,51.56
+ORD-1042,2026-06-05,CUST-015,Northern,Stationery,42.02,17.06,30,42.26,Delivered,Cash on Delivery,6,0.0,Repeat,2026-06,42.02,24.960000000000004,-12.26,12.7
+ORD-1048,2026-06-06,CUST-086,Greater Accra,Home & Kitchen,67.22,39.87,15,21.88,Delivered,Mobile Money,1,0.0,Repeat,2026-06,67.22,27.35,-6.88,20.47
+ORD-1156,2026-06-07,CUST-056,Northern,Home & Kitchen,638.02,389.59,10,28.71,Delivered,Cash on Delivery,5,0.0,Repeat,2026-06,638.02,248.43,-18.71,229.72
+ORD-1181,2026-06-07,CUST-039,Eastern,Personal Care,164.51,80.9,25,38.09,Delivered,Card,3,0.0,Repeat,2026-06,164.51,83.60999999999999,-13.09,70.52
+ORD-1087,2026-06-08,CUST-033,Northern,Personal Care,223.26,115.79,15,33.28,Failed,Cash on Delivery,6,21.41,Repeat,2026-06,0.0,0.0,-18.28,-39.69
+ORD-1120,2026-06-08,CUST-059,Greater Accra,Stationery,166.76,61.01,10,14.43,Delivered,Cash on Delivery,2,0.0,Repeat,2026-06,166.76,105.75,-4.43,101.32
+ORD-1240,2026-06-08,CUST-038,Northern,Stationery,132.66,48.39,15,30.8,Failed,Mobile Money,8,13.38,Repeat,2026-06,0.0,0.0,-15.8,-29.18
+ORD-1136,2026-06-09,CUST-022,Central,Stationery,22.21,9.23,15,31.7,Delivered,Cash on Delivery,5,0.0,Repeat,2026-06,22.21,12.98,-16.7,-3.72
+ORD-1061,2026-06-10,CUST-076,Ashanti,Personal Care,281.76,134.27,30,37.25,Delivered,Mobile Money,4,0.0,Repeat,2026-06,281.76,147.48999999999998,-7.25,140.24
+ORD-1079,2026-06-11,CUST-088,Ashanti,Small Appliances,1496.52,1099.07,25,39.78,Delivered,Cash on Delivery,1,0.0,Repeat,2026-06,1496.52,397.45000000000005,-14.78,382.67
+ORD-1130,2026-06-11,CUST-083,Northern,Home & Kitchen,247.81,133.92,25,39.84,Delivered,Cash on Delivery,4,0.0,Repeat,2026-06,247.81,113.89000000000001,-14.84,99.05
+ORD-1066,2026-06-12,CUST-063,Northern,Small Appliances,784.51,528.37,20,38.7,Failed,Mobile Money,9,12.9,Repeat,2026-06,0.0,0.0,-18.7,-31.6
+ORD-1148,2026-06-12,CUST-050,Ashanti,Small Appliances,492.43,296.9,10,18.45,Delivered,Cash on Delivery,5,0.0,Repeat,2026-06,492.43,195.53000000000003,-8.45,187.08
+ORD-1168,2026-06-12,CUST-071,Greater Accra,Home & Kitchen,425.01,234.01,10,17.03,Delivered,Bank Transfer,2,0.0,Repeat,2026-06,425.01,191.0,-7.03,183.97
+ORD-1145,2026-06-13,CUST-080,Greater Accra,Home & Kitchen,116.51,70.25,30,37.36,Delivered,Cash on Delivery,3,0.0,Repeat,2026-06,116.51,46.260000000000005,-7.36,38.9
+ORD-1163,2026-06-13,CUST-023,Ashanti,Stationery,98.94,36.79,15,27.92,Delivered,Cash on Delivery,3,0.0,Repeat,2026-06,98.94,62.15,-12.92,49.23
+ORD-1192,2026-06-13,CUST-030,Northern,Electronics Accessories,418.91,271.92,10,28.81,Delivered,Bank Transfer,3,0.0,Repeat,2026-06,418.91,146.99,-18.81,128.18
+ORD-1209,2026-06-14,CUST-083,Northern,Small Appliances,655.52,498.48,25,45.7,Failed,Mobile Money,4,19.11,Repeat,2026-06,0.0,0.0,-20.7,-39.81
+ORD-1233,2026-06-16,CUST-005,Central,Electronics Accessories,391.0,242.22,10,23.37,Delivered,Mobile Money,4,0.0,Repeat,2026-06,391.0,148.78,-13.37,135.41
+ORD-1247,2026-06-16,CUST-077,Western,Electronics Accessories,342.95,236.81,15,28.79,Delivered,Mobile Money,4,0.0,Repeat,2026-06,342.95,106.13999999999999,-13.79,92.35
+ORD-1176,2026-06-17,CUST-087,Western,Home & Kitchen,372.01,220.41,25,35.34,Delivered,Mobile Money,4,0.0,Repeat,2026-06,372.01,151.6,-10.34,141.26
+ORD-1226,2026-06-17,CUST-088,Ashanti,Home & Kitchen,508.02,268.21,25,34.61,Delivered,Mobile Money,3,0.0,Repeat,2026-06,508.02,239.81,-9.61,230.2
+ORD-1012,2026-06-19,CUST-014,Greater Accra,Small Appliances,331.29,205.66,10,19.42,Delivered,Mobile Money,1,0.0,Repeat,2026-06,331.29,125.63000000000002,-9.42,116.21
+ORD-1186,2026-06-19,CUST-062,Northern,Personal Care,111.28,47.98,30,45.42,Delivered,Cash on Delivery,3,0.0,One-time,2026-06,111.28,63.300000000000004,-15.42,47.88
+ORD-1199,2026-06-21,CUST-013,Greater Accra,Electronics Accessories,195.3,112.93,15,17.07,Delivered,Mobile Money,1,0.0,One-time,2026-06,195.3,82.37,-2.07,80.3
+ORD-1228,2026-06-21,CUST-007,Eastern,Stationery,83.04,41.66,15,21.68,Delivered,Mobile Money,3,0.0,Repeat,2026-06,83.04,41.38000000000001,-6.68,34.7
+ORD-1028,2026-06-22,CUST-040,Northern,Electronics Accessories,243.29,127.58,15,36.84,Delivered,Cash on Delivery,4,0.0,Repeat,2026-06,243.29,115.71,-21.84,93.87
+ORD-1220,2026-06-22,CUST-078,Ashanti,Personal Care,265.25,115.08,30,42.24,Delivered,Mobile Money,1,0.0,Repeat,2026-06,265.25,150.17000000000002,-12.24,137.93
+ORD-1021,2026-06-23,CUST-069,Ashanti,Home & Kitchen,66.56,39.79,20,26.79,Returned,Mobile Money,1,18.14,Repeat,2026-06,0.0,0.0,-6.79,-24.93
+ORD-1157,2026-06-23,CUST-021,Eastern,Small Appliances,342.75,243.13,25,31.35,Delivered,Cash on Delivery,1,0.0,Repeat,2026-06,342.75,99.62,-6.35,93.27
+ORD-1082,2026-06-24,CUST-031,Eastern,Personal Care,185.37,81.9,20,30.6,Delivered,Card,4,0.0,Repeat,2026-06,185.37,103.47,-10.6,92.87
+ORD-1166,2026-06-24,CUST-067,Greater Accra,Home & Kitchen,576.78,334.79,30,33.82,Returned,Mobile Money,7,8.94,Repeat,2026-06,0.0,0.0,-3.82,-12.76
+ORD-1187,2026-06-24,CUST-083,Northern,Stationery,58.62,25.63,15,29.79,Delivered,Bank Transfer,5,0.0,Repeat,2026-06,58.62,32.989999999999995,-14.79,18.2
+ORD-1133,2026-06-25,CUST-068,Greater Accra,Electronics Accessories,629.77,385.12,10,15.63,Delivered,Mobile Money,1,0.0,Repeat,2026-06,629.77,244.64999999999998,-5.63,239.02
+ORD-1084,2026-06-26,CUST-033,Northern,Home & Kitchen,231.27,143.36,25,38.07,Delivered,Mobile Money,5,0.0,Repeat,2026-06,231.27,87.91,-13.07,74.84
+ORD-1185,2026-06-26,CUST-027,Greater Accra,Home & Kitchen,514.98,311.92,10,19.06,Delivered,Cash on Delivery,2,0.0,Repeat,2026-06,514.98,203.06,-9.06,194.0
+ORD-1025,2026-06-28,CUST-038,Northern,Personal Care,77.76,40.41,25,43.77,Failed,Cash on Delivery,6,14.9,Repeat,2026-06,0.0,0.0,-18.77,-33.67
+ORD-1095,2026-06-28,CUST-070,Greater Accra,Home & Kitchen,495.36,231.74,25,33.55,Delivered,Cash on Delivery,2,0.0,Repeat,2026-06,495.36,263.62,-8.55,255.07
+ORD-1222,2026-06-28,CUST-078,Ashanti,Stationery,80.44,31.62,20,32.76,Delivered,Cash on Delivery,3,0.0,Repeat,2026-06,80.44,48.81999999999999,-12.76,36.06
