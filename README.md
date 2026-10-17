@@ -27,3 +27,13 @@ Project Structure
 - screenshots/ — Screenshots showing selected parts of the work.
 Disclaimer
 This project uses simulated data for learning and portfolio development. The estimated contribution figures are analytical estimates and should not be interpreted as audited net profit.
+## Screenshots
+
+### Excel Analysis
+![Excel Analysis](screenshots/Excel_Analysis.png)
+
+### Python Analysis
+![Python Analysis](screenshots/Python_Analysis.png)
+
+### SQL Analysis
+![SQL Analysis](screenshots/SQL_Analysis.png)
